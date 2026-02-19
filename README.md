@@ -1,16 +1,31 @@
-## Hi there 👋
+# hi, i'm Adithya                                                                                                                                                                     
+                                                            
+  ---                                                                                                                                                                                   
+                                                            
+  i'm a technical sales/ GTM lead who took YC company @reclaimprotocol to $1M ARR in 7 months and did close to 10M impressions
+  on social media driving over 50 inbound demos a month. (i also like creating videos)
 
-<!--
-**RealAdii/RealAdii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  [my website](https://adithyadinesh.xyz)
 
-Here are some ideas to get you started:
+  ## Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
+
+  currently i'm leading ecosystem at @starkware which is a blockchain infrastructure company that builds zero-knowledge proof-based scaling solutions for Ethereum.
+
+  ## a few of my works (my engineer alter ego)
+
+  - [sovereign](https://github.com/RealAdii/sovereign-journalist) - AI whistleblowing platform where you can anonymously report anything without revealing your identity (possible
+  because of zero-knowledge proofs via Reclaim Protocol (https://reclaimprotocol.org/))
+  - [creator lending](https://github.com/RealAdii/creator-credit-react) - creator lending marketing where creators can borrow against their revenue on social media platforms.
+  - [morning wire](https://github.com/RealAdii/morning-wire) - CRON that sends me the top wall street news, AI tweets from X, top 5 YC companies (investor memo style) and sends me a
+  hacker news style newsletter via email everyday.
+  - [free notion](https://github.com/RealAdii/notion-clonee) - clone of notion that runs on local machine and is open source.
+  - [reclaim-gmail-zkp](https://github.com/RealAdii/reclaim-gmail-zkp) - verify your gmail inbox without revealing your email via zero-knowledge proofs.
+
+  ## contact (say hi)
+
+  ---
+
+  you can find me on [Telegram](https://t.me/adiihq) or [Twitter](https://twitter.com/adiihq). I'd be happy to write back if you'd like to send me an
+  [Email](mailto:sayhi@adithyadinesh.xyz).

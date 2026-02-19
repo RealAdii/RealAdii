@@ -1,5 +1,4 @@
-# hi, i'm Adithya                                                                                                                                                                                                                              
-  ---                                                                                                                                                                     
+# hi, i'm Adithya                                                                                                                                                                                                                                                                                                                           
                                                             
   i'm a technical sales/ GTM lead who took YC company @reclaimprotocol to $1M ARR in 7 months and did close to 10M impressions
   on social media driving over 50 inbound demos a month. (i also like creating videos)

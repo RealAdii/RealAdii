@@ -11,6 +11,7 @@
 
   ## a few of my works (my engineer alter ego)
 
+  - [RafflePunk](https://github.com/RealAdii/rafflepunk) - a platform that lets you create a Raffle instantly or participate in one. (PS: it's onchain on Starknet built using StarkZap) 
   - [sovereign](https://github.com/RealAdii/sovereign-journalist) - AI whistleblowing platform where you can anonymously report anything without revealing your identity (possible
   because of zero-knowledge proofs via Reclaim Protocol (https://reclaimprotocol.org/))
   - [creator lending](https://github.com/RealAdii/creator-credit-react) - creator lending marketing where creators can borrow against their revenue on social media platforms.

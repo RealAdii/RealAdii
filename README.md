@@ -10,7 +10,8 @@
   currently i'm leading ecosystem at @starkware which is a blockchain infrastructure company that builds zero-knowledge proof-based scaling solutions for Ethereum.
 
   ## a few of my works (my engineer alter ego)
-
+  
+  - [TypeRacer](https://github.com/RealAdii/typeracer) - a typing game where only the fastest prevail. every word is a transaction on Starknet (build using StarkZap)
   - [RafflePunk](https://github.com/RealAdii/rafflepunk) - a platform that lets you create a Raffle instantly or participate in one. (PS: it's onchain on Starknet built using StarkZap) 
   - [sovereign](https://github.com/RealAdii/sovereign-journalist) - AI whistleblowing platform where you can anonymously report anything without revealing your identity (possible
   because of zero-knowledge proofs via Reclaim Protocol (https://reclaimprotocol.org/))

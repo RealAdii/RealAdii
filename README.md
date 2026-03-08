@@ -7,7 +7,7 @@
 
   ## Work
 
-  currently i'm leading ecosystem at @starkware which is a blockchain infrastructure company that builds zero-knowledge proof-based scaling solutions for Ethereum.
+  currently i lead ecosystem at @starkware which is a blockchain infrastructure company focusing on zero-knowledge proof-based scaling solutions for Ethereum.
 
   ## a few of my works (my engineer alter ego)
   
